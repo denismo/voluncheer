@@ -13,7 +13,7 @@ import com.google.appengine.api.datastore.Key;
 public class Organization {
 	@PrimaryKey
 	@Persistent (valueStrategy=IdGeneratorStrategy.IDENTITY)
-	private Key key;
+	public Key key;
 	
 	@Persistent
 	public String name;
