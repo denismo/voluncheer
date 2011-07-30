@@ -1,0 +1,61 @@
+#hd{
+	background-color: #484848;
+    padding: 15px;
+    width: 720px;
+	color: #FFFFFF;
+	font-size: 30px;
+}
+#hd a{
+	font-size: 16px;
+	color: #FFF;
+	margin-left: 30px;
+}
+
+#hd .logo{
+	float: left;
+	margin-right: 100px;
+}
+#hd .volunteer{
+	float: left;	
+}
+#hd .list{
+	float: left;
+}
+
+#hd .login{
+	float: right;
+	height: 50px;	
+}
+
+#ft {
+	background-color: #484848;
+    bottom: 0;
+    color: #FFFFFF;
+    padding: 15px;
+    position: absolute;
+    width: 720px;
+}
+
+.pitch{
+	border: 1px solid #777777;
+	height: 100px;
+    margin-top: 15px;
+}
+
+.latest-opp{
+	border: 1px solid #777777;	
+	min-height: 200px;
+    margin-top: 15px;
+}
+
+.signup{
+	border: 1px solid #777777;	
+	min-height: 200px;
+    margin-top: 15px;	
+}
+
+.feed{
+	border: 1px solid #777777;	
+	min-height: 200px;
+    margin-top: 15px;	
+}
